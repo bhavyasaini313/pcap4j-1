@@ -10,6 +10,6 @@ This tool hooks into the local network interface to capture live traffic. It was
 - Demonstrates plain-text data exposure on insecure sites (NeverSSL)
 
 ## 📸 Proof of Concept
-![Java Code](Step1_Java_Source_Code.png)
+![Java Code](step1_java_source_code.png.png)
 ![Wireshark Capture](28B9F82A-BA18-4523-88ED-0976455BDC9A).png
 ![Data Analysis](plaintext_Analysis.png.png)
