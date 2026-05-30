@@ -11,5 +11,5 @@ This tool hooks into the local network interface to capture live traffic. It was
 
 ## 📸 Proof of Concept
 ![Java Code](Step1_Java_Source_Code.png)
-![Wireshark Capture](Screenshot2_Wireshark.png)
-![Data Analysis](Screenshot3_Plaintext_Analysis.png)
+![Wireshark Capture](28B9F82A-BA18-4523-88ED-0976455BDC9A).png
+![Data Analysis](plaintext_Analysis.png.png)
