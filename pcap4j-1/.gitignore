@@ -1,0 +1,16 @@
+target/
+.project
+.classpath
+.settings/
+pcap4j-test-coverage/src/
+
+build/
+.gradle/
+bin/
+.idea
+**/*.iml
+gradle-app.setting
+.gradletasknamecache
+
+.java-version
+
